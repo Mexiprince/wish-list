@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Wish List">980db57ddb50dc10792cf6dfbf96194c</applet_launcher>
+        <order/>
+        <section display_value="Wish Item">9c0d7d7ddb50dc10792cf6dfbf961988</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 13:00:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>540d7d7ddb50dc10792cf6dfbf96198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wish List" source="x_152850_wish_list">b30b3db9db50dc10792cf6dfbf9619ec</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Wish List">b30b3db9db50dc10792cf6dfbf9619ec</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_540d7d7ddb50dc10792cf6dfbf96198a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 13:00:50</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
