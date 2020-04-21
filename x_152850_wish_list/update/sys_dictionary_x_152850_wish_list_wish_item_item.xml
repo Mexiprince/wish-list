@@ -49,8 +49,8 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-21 12:58:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9c9cb57ddb50dc10792cf6dfbf961982</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>8e4a3275db54dc10792cf6dfbf96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Item</sys_name>
         <sys_package display_value="Wish List" source="x_152850_wish_list">b30b3db9db50dc10792cf6dfbf9619ec</sys_package>
         <sys_policy/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Wish List">b30b3db9db50dc10792cf6dfbf9619ec</sys_scope>
         <sys_update_name>sys_dictionary_x_152850_wish_list_wish_item_item</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-21 14:38:49</sys_updated_on>
+        <sys_updated_on>2020-04-21 17:28:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
